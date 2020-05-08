@@ -1,0 +1,2 @@
+node_type_id model_type dynamics_params model_processing potental morphology model_template cell_name
+100 biophysical 484559000_fit.json aibs_perisomatic exc Rorb-IRES2-Cre-D_Ai14-201965.03.02.01_492101093_m.swc ctdb:Biophys1.hoc 484559000
